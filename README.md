@@ -1,1 +1,1 @@
-# rsschool-cv
+https://AwlMax.github.io/rsschool-cv/cv
