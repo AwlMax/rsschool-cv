@@ -1,0 +1,18 @@
+# Maksim
+
+## Junior frontend dev
+
+-----------------------------------------------------------------------------------------------
+
+## Contact information:
+
+* **Phone** +996777700750
+* **Email** shiloff.maks2017@yandex.ru
+* **Telegram** @Maksim S
+
+-----------------------------------------------------------------------------------------------
+## Skills and Proficiency:
+* JavaScript Basics
+* SQL
+* Git
+* Linux
