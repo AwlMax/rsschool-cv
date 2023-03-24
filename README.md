@@ -1,1 +1,1 @@
-https://AwlMax.github.io/rsschool-cv/cv
+https://GITHUB-AwlMax.github.io/rsschool-cv/
